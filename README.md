@@ -3,7 +3,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Virtual Machine installations [PL](https://www.youtube.com/playlist?list=PL0iCVELpu-GpTI6uGy_8L5Z2Movv15Gr9) (Virtual box and Azure)</b>
-  - [Basic Specs for Virtual Machines]()
+  - [Basic Specs for Virtual Machines]
   - [Installing VMs on Azure]
   - [Installing Vms on Virtual Box]
 - <b> Navigating through active directory on windows server 2022 [PL](https://www.youtube.com/playlist?list=PL0iCVELpu-GrOBo8D2W0XvMKjbryMJwiB)</b>
