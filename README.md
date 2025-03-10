@@ -7,7 +7,7 @@
   - [Installing VMs on Azure](https://github.com/Nacosta16/Installing-VMs-on-Azure)
   - [Installing Vms on Virtual Box](https://github.com/Nacosta16/Installing-Vms-on-Virtual-Bo)
 - <b> Navigating through active directory on windows server 2022 [PL](https://www.youtube.com/playlist?list=PL0iCVELpu-GrOBo8D2W0XvMKjbryMJwiB)</b>
-  - [Installing Windows server 2022 virtual OS]()
+  - [Installing Windows server 2022 virtual OS](https://github.com/Nacosta16/Installing-Windows-Server2022-virtual-OS)
   - [Initializing Active Directory](https://github.com/Nacosta16/Initializing-Active-Directory)
   - [Changing user groups and permissions](https://github.com/Nacosta16/Changing-user-groups-and-permissions)
   - [Security Groups](https://github.com/Nacosta16/Security-Groups)
