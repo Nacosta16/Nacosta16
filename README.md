@@ -4,7 +4,6 @@
 
 - <b>Virtual Machine installations [PL](https://www.youtube.com/playlist?list=PL0iCVELpu-GpTI6uGy_8L5Z2Movv15Gr9) (Virtual box and Azure)</b>
   - [Basic Specs for Virtual Machines](https://github.com/Nacosta16/Basic-Specs-for-Virtual-Machines)
-  - [Installing VMs on Azure](https://github.com/Nacosta16/Installing-VMs-on-Azure)
   - [Installing Vms on Virtual Box](https://github.com/Nacosta16/Installing-Vms-on-Virtual-Bo)
 - <b> Navigating through active directory on windows server 2022 [PL](https://www.youtube.com/playlist?list=PL0iCVELpu-GrOBo8D2W0XvMKjbryMJwiB)</b>
   - [Installing Windows server 2022 virtual OS](https://github.com/Nacosta16/Installing-Windows-Server2022-virtual-OS)
