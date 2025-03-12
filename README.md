@@ -17,7 +17,7 @@
 - <b> Installing and using Packet Tracer </b> 
   - [Packet Tracer Installation](https://github.com/Nacosta16/Packet-Tracer-Installation)
   - [Basic Packet Tracer Pinging/Topologies](https://github.com/Nacosta16/Basic-Packet-Tracer-Pinging-Configurations)
-- <b> Basic command lines in windows CMD [PL](https://www.youtube.com/playlist?list=PL0iCVELpu-Grk5men4qN-60Y_izoeMzgC) </b>
+- <b> Basic command lines in windows CMD </b>
   - [Basic command lines and how to navigate files using the text interface](https://github.com/Nacosta16/Basic-command-lines-and-how-to-navigate-files-using-the-text-interface)
  
 
