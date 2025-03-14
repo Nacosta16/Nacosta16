@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Information Technology Projects and information I have learned from them:</h2>
 
-- <b>Virtual Machine installations (Virtual box and Azure)</b>
+- <b>Virtual Machine installations (Virtual box)</b>
   - [Basic Specs for Virtual Machines](https://github.com/Nacosta16/Basic-Specs-for-Virtual-Machines)
   - [Installing Vms on Virtual Box](https://github.com/Nacosta16/Installing-Vms-on-Virtual-Bo)
 - <b> Navigating through active directory on windows server 2022 </b>
