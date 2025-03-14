@@ -1,6 +1,6 @@
 <h1>Hi, I'm Nicholas Acosta an <a href="https://www.linkedin.com/in/nicholas-acosta-b74997306/"> aspiring IT Professional</a>☺</h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻 Information Technology Projects and information I have learned from them:</h2>
 
 - <b>Virtual Machine installations (Virtual box and Azure)</b>
   - [Basic Specs for Virtual Machines](https://github.com/Nacosta16/Basic-Specs-for-Virtual-Machines)
