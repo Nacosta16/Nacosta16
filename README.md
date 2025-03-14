@@ -21,7 +21,7 @@
   - [Basic command lines and how to navigate files using the text interface](https://github.com/Nacosta16/Basic-command-lines-and-how-to-navigate-files-using-the-text-interface)
  
 
-<h3>Learning Resources</h3>
+<h2>Learning Resources</h2>
 
   -  <b> [Udemy](https://www.udemy.com/) [CourseCareers](https://coursecareers.com/)
   -  <b> Other Valued Professors! [JasonDion](https://www.diontraining.com/) [Andrew Ramdayal](https://tiaexams.com/home) </b>
