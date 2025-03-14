@@ -24,7 +24,7 @@
 <h3>Learning Resources</h3>
 
   -  <b> [Udemy](https://www.udemy.com/) [CourseCareers](https://coursecareers.com/)
-  -  <b> Valued Professors! [JasonDion](https://www.diontraining.com/) [Andrew Ramdayal](https://tiaexams.com/home) </b>
+  -  <b> Other Valued Professors! [JasonDion](https://www.diontraining.com/) [Andrew Ramdayal](https://tiaexams.com/home) </b>
   
   
 <h2>🤳Connect with me:</h2>
