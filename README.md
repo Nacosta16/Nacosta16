@@ -9,7 +9,6 @@
   - [Installing Windows server 2022 virtual OS](https://github.com/Nacosta16/Installing-Windows-Server2022-virtual-OS)
   - [Initializing Active Directory](https://github.com/Nacosta16/Initializing-Active-Directory)
   - [Changing user groups and permissions](https://github.com/Nacosta16/Changing-user-groups-and-permissions)
-  - [Security Groups](https://github.com/Nacosta16/Security-Groups)
   - [Resting passwords](https://github.com/Nacosta16/Resting-passwords)
 - <b> Installing and how to use wireshark  </b>
   - [Wire Shark Installation](https://github.com/Nacosta16/Wire-Shark-Installation)
