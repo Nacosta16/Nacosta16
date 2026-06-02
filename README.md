@@ -7,8 +7,9 @@ IT Support Professional pursuing CCNA certification and building hands-on networ
 - CCNA (In Progress)
 
 ## Connect
-- LinkedIn: [LinkedIn URL]
-- YouTube: [YouTube URL]
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicholas_Acosta-blue?logo=linkedin)](https://www.linkedin.com/in/nicholas-acosta-b74997306)
+[![YouTube](https://img.shields.io/badge/YouTube-CCNA_Labs-red?logo=youtube)](https://www.youtube.com/channel/UCicqITIb0RL4TPchSc4S44g)
 
 ## Featured Projects
 
@@ -25,7 +26,7 @@ Repository:
 [CCNA-Labs]
 
 YouTube Playlist:
-[Link]
+[![YouTube](https://img.shields.io/badge/YouTube-CCNA_Labs-red?logo=youtube)](https://www.youtube.com/channel/UCicqITIb0RL4TPchSc4S44g)
 
 ---
 
