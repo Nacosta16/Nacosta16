@@ -20,7 +20,7 @@ Packet Tracer labs covering:
 - STP
 - EtherChannel
 - OSPF
-- EIGRP-Successors
+- [EIGRP-Successors](https://github.com/Nacosta16/CCNA-EIGRP-Lab/tree/main) 
 - ACLs
 - NAT
 - DHCP
