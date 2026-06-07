@@ -15,12 +15,16 @@ IT Support Professional pursuing CCNA certification and building hands-on networ
 
 ### CCNA Lab Series
 Packet Tracer labs covering:
-- VLANs
+- VLANs-and-Trunking
+- Inter-VLAN-Routing
 - STP
+- EtherChannel
 - OSPF
+- EIGRP-Successors
 - ACLs
 - NAT
 - DHCP
+- IPv6
 
 Repository:
 [CCNA-Labs]
